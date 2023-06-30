@@ -1,0 +1,2 @@
+input=73	
+output=40
